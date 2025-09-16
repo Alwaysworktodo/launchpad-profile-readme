@@ -7,8 +7,8 @@
 
 # Launchpad: Profile README
 
-_Say hello to your community._
-
+_hi peeps my name is Norman and ill be trying to create some suefull stuff here :)._
+for now this is for nobody but me haha 
 
 <!-- 
   <<< Author notes: Start of the course >>> 

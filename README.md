@@ -7,7 +7,7 @@
 
 # Launchpad: Profile README
 
-_Say hello to your community._
+_hi hoomans im norman and i guess im trying to build usefull stuff and hopefully make money while doing it :)._
 
 
 <!-- 
